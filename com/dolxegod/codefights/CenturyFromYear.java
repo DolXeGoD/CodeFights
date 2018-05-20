@@ -1,7 +1,5 @@
 package com.dolxegod.codefights;
 
-import java.util.Scanner;
-
 public class CenturyFromYear {
     public static void main(String[] args) {
         System.out.println(centuryFromYear(1905));
