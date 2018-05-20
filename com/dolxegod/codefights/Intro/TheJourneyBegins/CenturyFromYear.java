@@ -1,4 +1,4 @@
-package com.dolxegod.codefights;
+package com.dolxegod.codefights.Intro.TheJourneyBegins;
 
 public class CenturyFromYear {
     public static void main(String[] args) {
