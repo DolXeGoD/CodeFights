@@ -1,7 +1,7 @@
 package com.dolxegod.codefights.Intro.EdgeoftheOcean;
 
 public class AdjacentElementsProduct {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int[] a = new int[]{3, 6, -2, -5, 7, 3};
         adjacentElementsProduct(a);
     }
